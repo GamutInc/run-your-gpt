@@ -10,7 +10,7 @@ Your task is to create a frontend application using React that enables users to 
 
 1. **Google Colab Notebook**: This [notebook](https://colab.research.google.com/drive/1BkL7zYVYtn0JPYKMPJ0tJmK-zMtINx0P?usp=sharing) contains the AI model and establishes a WebSocket connection along with a normal server for interaction.
 
-2. **Example Python File**: This file demonstrates how to interact with the AI model programmatically.
+2. **Example Python File**: Both Files demonstrates how to interact with the AI model programmatically, you can use any one of the two streaming methods to complete the task. But be ready with a reason of why you selected it.
 
 ## Tasks
 
